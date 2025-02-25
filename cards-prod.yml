@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Sahil Shimpi - Product Owner"
+    email: "sahil@eazybank.com"
+  onCallSupport:
+    - (cccp) 392-4829
+    - (cccp) 203-0384

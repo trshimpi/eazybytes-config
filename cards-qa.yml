@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Namrata Shimpi - Qa lead"
+    email: "@eazybank.com"
+  onCallSupport:
+    - (cccq) 392-4829
+    - (cccq) 203-0384

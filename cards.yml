@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Tanmay Shimpi - Developer"
+    email: "tanmay@eazybank.com"
+  onCallSupport:
+    - (cccd) 555-1234
+    - (cccd) 523-1345
